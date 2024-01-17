@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504344982283",
+    "project_id": "street-light-system-new",
+    "storage_bucket": "street-light-system-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504344982283:android:114aa0254f52d6a895680e",
+        "android_client_info": {
+          "package_name": "com.nibm.mobile.streetlightsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4nS0qY--kPx-HZTGZTvcQgQHTRG88ixA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
